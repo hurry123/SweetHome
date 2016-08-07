@@ -1,3 +1,9 @@
 [submodule "saumithri"]
 	path = saumithri
 	url = https://github.com/hurry123/SweetHome.git
+[submodule "Merc"]
+	path = Merc
+	url = https://github.com/hurry123/SweetHome.git
+[submodule "Rocket"]
+	path = Rocket
+	url = https://github.com/hurry123/SweetHome.git
